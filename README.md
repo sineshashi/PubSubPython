@@ -57,3 +57,8 @@ To get started with the Educational Messaging System project, follow these steps
 ## Contributing
 
 This project is primarily for educational purposes. However, contributions, suggestions, and discussions are welcome! Feel free to open issues and contribute to enhance this project's learning experience.
+
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code for educational purposes. See the [LICENSE](https://github.com/sineshashi/PubSubPython/blob/master/LICENSE) file for details.
